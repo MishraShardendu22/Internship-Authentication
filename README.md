@@ -1,4 +1,4 @@
-# [Internship Authentication - Career Cafe](https://frontend-internship.onrender.com)
+# Internship Authentication - Career Cafe
 
 ## Tech Stack
 
